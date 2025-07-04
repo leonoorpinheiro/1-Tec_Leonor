@@ -1,6 +1,14 @@
-body {background-color:darkolivegreen;
+body {
+    background-color:darkolivegreen;
     color:darkgray; 
     font-family: "Berkshire Swash", serif;
+}
+
+header{
+    font-family: "Berkshire Swash", serif;
+    font-size: 60px;
+    border-bottom: double 5px darkgray;
+    text-align: center;
 }
 h1{
     font-size: 30px;
@@ -9,5 +17,5 @@ p{
     font-size: 20px;
 }
 header{
-    font-size: 15px;
+    font-size: 20px;
 }
